@@ -1,6 +1,5 @@
 # amazon-q-cli-snake-game
-## STEP 1 : Sign up to an AWS Builder ID and claim your unique community.aws username from this link. If you need help or network with other fellow builders, join the discord server from this link.
-
+## STEP 1 : Sign up to an AWS Builder ID and claim your unique community.aws username from this link. 
 ``` https://community.aws/builderid?trk=b085178b-f0cb-447b-b32d-bd0641720467&sc_channel=el ```
 
 ## STEP 2 : Install Amazon Q CLI in your machine. Here are two guides from Ricardo Sueiras on how you can install in Linux and in Windows. Install PyGame or some other gaming library on your laptop.
